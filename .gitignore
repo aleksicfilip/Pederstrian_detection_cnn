@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+# Ignoriraj podatke
+data/
+*.zip
+*.tar.gz
